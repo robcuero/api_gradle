@@ -1,4 +1,4 @@
-package ec.edu.espam.api.gradle;
+package ec.edu.espam.api.caja;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

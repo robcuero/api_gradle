@@ -1,4 +1,4 @@
-package ec.edu.espam.api.gradle;
+package ec.edu.espam.api.caja;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
